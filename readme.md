@@ -5,12 +5,10 @@
 
 --- 
 **Code**
- - [Main Page XAML Code](https://github.com/iingles/iiFitnessApp/blob/master/iiFruitPicker/MainPage.xaml)
- - [Main Page C# Code](https://github.com/iingles/iiFitnessApp/blob/master/IIFitnessApp/MainPage.xaml.cs)
-
- - [My Profile Page XAML Code](https://github.com/iingles/iiFitnessApp/blob/master/IIFitnessApp/MyProfilePage.xaml)
- - [My Profile Page C# Code](https://github.com/iingles/iiFitnessApp/blob/master/IIFitnessApp/MyProfilePage.xaml.cs)
+ - [Main Page XAML Code](https://github.com/iingles/iiFruitDetails/blob/master/iiFruitDetails/MainPage.xaml)
+ - [Main Page C# Code](https://github.com/iingles/iiFruitDetails/blob/master/iiFruitDetails/MainPage.xaml.cs)
 
 **Screenshots**
- - [Main Page](https://github.com/iingles/iiFitnessApp/blob/master/MainPage.jpg)
- - [Profile Page](https://github.com/iingles/iiFitnessApp/blob/master/ProfilePage.jpg)
+ - [Blank Form](https://github.com/iingles/iiFruitDetails/blob/master/blank.jpg)
+ - [Selection 1](https://github.com/iingles/iiFruitDetails/blob/master/selection1.jpg)
+ - [Selection 2](https://github.com/iingles/iiFruitDetails/blob/master/selection2.jpg)
